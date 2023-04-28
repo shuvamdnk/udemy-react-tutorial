@@ -3,7 +3,7 @@ import Profile from './components/Profile/Profile'
 
 function App() {
   return (
-    <div className='container mt-5 shadow-sm'>
+    <div className='container mt-5 shadow-sm bg-light'>
       <Profile />
     </div>
   )
